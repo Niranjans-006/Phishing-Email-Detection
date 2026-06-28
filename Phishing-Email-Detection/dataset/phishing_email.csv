@@ -1,0 +1,9 @@
+EmailText,Label
+"Congratulations! You won $5000. Click here to claim.",phishing
+"Your account has been suspended. Verify immediately.",phishing
+"Meeting tomorrow at 10 AM.",safe
+"Please review the attached project report.",safe
+"Claim your free iPhone now!",phishing
+"Happy Birthday! Have a wonderful day.",safe
+"Update your bank details now.",phishing
+"Lunch meeting shifted to 1 PM.",safe
